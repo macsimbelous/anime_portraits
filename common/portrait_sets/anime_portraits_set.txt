@@ -1,0 +1,86 @@
+humans = {
+	species_class = HUM
+
+	portraits = {
+		"anime_humanoids"
+	}
+	non_randomized_portraits = {
+		"anime_humanoids"
+	}
+}
+
+machines = {
+	species_class = MACHINE
+
+	portraits = {
+		"anime_androids"
+	}
+
+	non_randomized_portraits = {
+		"anime_androids"
+	}
+}
+
+robots = {
+	species_class = ROBOT
+	portraits = {
+		"anime_androids"
+	}
+
+	non_randomized_portraits = {
+		"anime_androids"
+	}
+}
+
+cybernetic_humans = {
+	species_class = HUM
+
+	conditional_portraits = {
+		randomizable = {
+			has_machine_age_dlc = yes
+		}
+		playable = {
+			has_machine_age_dlc = yes
+		}
+		portraits = {
+			"anime_androids"
+		}
+	}
+
+	# These should not be used for randomly generated species
+	non_randomized_portraits = {
+		"anime_androids"
+	}
+}
+
+cybernetic_humanoids = {
+	species_class = HUM
+
+	conditional_portraits = {
+		randomizable = {
+			has_machine_age_dlc = yes
+		}
+		playable = {
+			has_machine_age_dlc = yes
+		}
+		portraits = {
+			"anime_androids"
+		}
+	}
+}
+
+synthetic_humanoids = {
+	species_class = HUM
+
+	conditional_portraits = {
+		randomizable = {
+			has_machine_age_dlc = yes
+		}
+		playable = {
+			has_machine_age_dlc = yes
+		}
+		portraits = {
+			"anime_androids"
+		}
+	}
+}

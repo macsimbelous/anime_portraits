@@ -1,0 +1,536 @@
+portraits = {
+	anime_humanoid_girl_01 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_01.dds" }
+	anime_humanoid_girl_02 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_02.dds" }
+	anime_humanoid_girl_03 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_03.dds" }
+	anime_humanoid_girl_04 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_04.dds" }
+	anime_humanoid_girl_05 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_05.dds" }
+	anime_humanoid_girl_06 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_06.dds" }
+	anime_humanoid_girl_07 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_07.dds" }
+	anime_humanoid_girl_08 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_08.dds" }
+	anime_humanoid_girl_09 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_09.dds" }
+	anime_humanoid_girl_10 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_10.dds" }
+	anime_humanoid_girl_11 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_11.dds" }
+	anime_humanoid_girl_12 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_12.dds" }
+	anime_humanoid_girl_13 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_13.dds" }
+	anime_humanoid_girl_14 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_14.dds" }
+	anime_humanoid_girl_15 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_15.dds" }
+	anime_humanoid_girl_16 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_16.dds" }
+	anime_humanoid_girl_17 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_17.dds" }
+	anime_humanoid_girl_18 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_18.dds" }
+	anime_humanoid_girl_19 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_19.dds" }
+}
+
+portrait_groups = {
+	anime_humanoids = {
+		default = anime_humanoid_girl_01
+		game_setup = {
+			add = {
+				trigger = {
+					ruler = {
+						OR = {
+							gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					ruler = {
+						OR = {
+							gender = male
+							gender = indeterminable
+						}
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+		}
+		species = {
+			add = {
+				trigger = {
+					NOT = {
+						species = {
+							species_gender = male
+						}
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					NOT = {
+						species = {
+							species_gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+		}
+		#pop scope
+		pop = {
+			add = {
+				trigger = {
+					NOR = {
+						species = {
+							species_gender = male
+						}
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					NOR = {
+						species = {
+							species_gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+		}
+		#leader scope
+		leader = {
+			#scientists, generals, admirals, governor, #Admiral = Official, general = commander
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					NOT = {
+						leader_class = scientist
+					}
+					NOT = {
+						leader_class = commander
+					}
+					NOT = {
+						leader_class = official
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					NOT = {
+						leader_class = scientist
+					}
+					NOT = {
+						leader_class = commander
+					}
+					NOT = {
+						leader_class = official
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+		}
+		#ruler scope 
+		ruler = {
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_humanoid_girl_01
+					anime_humanoid_girl_02
+					anime_humanoid_girl_03
+					anime_humanoid_girl_04
+					anime_humanoid_girl_05
+					anime_humanoid_girl_06
+					anime_humanoid_girl_07
+					anime_humanoid_girl_08
+					anime_humanoid_girl_09
+					anime_humanoid_girl_10
+					anime_humanoid_girl_11
+					anime_humanoid_girl_12
+					anime_humanoid_girl_13
+					anime_humanoid_girl_14
+					anime_humanoid_girl_15
+					anime_humanoid_girl_16
+					anime_humanoid_girl_17
+					anime_humanoid_girl_18
+					anime_humanoid_girl_19
+				}
+			}
+		}
+	}
+}

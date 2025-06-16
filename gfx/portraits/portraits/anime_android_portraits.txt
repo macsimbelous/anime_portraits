@@ -1,0 +1,662 @@
+portraits = {	
+	anime_android_01 = { texturefile = "gfx/models/portraits/androids/anime_android_01.dds"  }
+	anime_android_02 = { texturefile = "gfx/models/portraits/androids/anime_android_02.dds"  }
+	anime_android_03 = { texturefile = "gfx/models/portraits/androids/anime_android_03.dds"  }
+	anime_android_04 = { texturefile = "gfx/models/portraits/androids/anime_android_04.dds"  }
+	anime_android_05 = { texturefile = "gfx/models/portraits/androids/anime_android_05.dds"  }
+	anime_android_06 = { texturefile = "gfx/models/portraits/androids/anime_android_06.dds"  }
+	anime_android_07 = { texturefile = "gfx/models/portraits/androids/anime_android_07.dds"  }
+	anime_android_08 = { texturefile = "gfx/models/portraits/androids/anime_android_08.dds"  }
+	anime_android_09 = { texturefile = "gfx/models/portraits/androids/anime_android_09.dds"  }
+	anime_android_10 = { texturefile = "gfx/models/portraits/androids/anime_android_10.dds"  }
+	anime_android_11 = { texturefile = "gfx/models/portraits/androids/anime_android_11.dds"  }
+	anime_android_12 = { texturefile = "gfx/models/portraits/androids/anime_android_12.dds"  }
+	anime_android_13 = { texturefile = "gfx/models/portraits/androids/anime_android_13.dds"  }
+	anime_android_14 = { texturefile = "gfx/models/portraits/androids/anime_android_14.dds"  }
+	anime_android_15 = { texturefile = "gfx/models/portraits/androids/anime_android_15.dds"  }
+	anime_android_16 = { texturefile = "gfx/models/portraits/androids/anime_android_16.dds"  }
+	anime_android_17 = { texturefile = "gfx/models/portraits/androids/anime_android_17.dds"  }
+	anime_android_18 = { texturefile = "gfx/models/portraits/androids/anime_android_18.dds"  }
+	anime_android_19 = { texturefile = "gfx/models/portraits/androids/anime_android_19.dds"  }
+	anime_android_20 = { texturefile = "gfx/models/portraits/androids/anime_android_20.dds"  }
+	anime_android_21 = { texturefile = "gfx/models/portraits/androids/anime_android_21.dds"  }
+	anime_android_22 = { texturefile = "gfx/models/portraits/androids/anime_android_22.dds"  }
+	anime_android_23 = { texturefile = "gfx/models/portraits/androids/anime_android_23.dds"  }
+	anime_android_24 = { texturefile = "gfx/models/portraits/androids/anime_android_24.dds"  }
+	anime_android_25 = { texturefile = "gfx/models/portraits/androids/anime_android_25.dds"  }
+	anime_android_26 = { texturefile = "gfx/models/portraits/androids/anime_android_26.dds"  }
+	anime_android_27 = { texturefile = "gfx/models/portraits/androids/anime_android_27.dds"  }
+}
+
+portrait_groups = {
+	anime_androids = {
+		default = anime_android_01
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				trigger = {
+					ruler = { 
+						OR = {
+							gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+				}
+			}
+			add = {
+				trigger = {
+					ruler = { 
+						OR = {
+							gender = male
+							gender = indeterminable
+						}
+					}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+				}
+			}	
+		}
+		species = {
+			add = {
+				trigger = {
+					NOT = { species = { species_gender = male } }
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+		
+				}
+			}		
+			add = {
+				trigger = {
+					NOT = { species = { species_gender = female } }
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}			
+		}
+		
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				trigger = {
+					NOR = {											species = { species_gender = male }
+					}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+		
+				}
+			}		
+			add = {
+				trigger = {
+					NOR = {											species = { species_gender = female }
+					}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}			
+		}
+		
+ 		#leader scope
+		leader = { #scientists, generals, admirals, governor, #Admiral = Official, general = commander
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable						
+					}
+					leader_class = scientist	
+				}
+				portraits = {	
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+		
+				}
+			}	
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable						
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}			
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+			
+				}
+			}	
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable					
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}			
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable					
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+		
+				}
+			}	
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable						
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable					
+					}
+					NOT = { leader_class = scientist}
+					NOT = { leader_class = commander}
+					NOT = { leader_class = official}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+			
+				}
+			}	
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable						
+					}
+					NOT = { leader_class = scientist}
+					NOT = { leader_class = commander}
+					NOT = { leader_class = official}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}			
+		}
+		
+		#ruler scope 
+		ruler = {
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+	
+				}
+			}	
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_android_01
+					anime_android_02
+					anime_android_03
+					anime_android_04
+					anime_android_05
+					anime_android_06
+					anime_android_07
+					anime_android_08
+					anime_android_09
+					anime_android_10
+					anime_android_11
+					anime_android_12
+					anime_android_13
+					anime_android_14
+					anime_android_15
+					anime_android_16
+					anime_android_17
+					anime_android_18
+					anime_android_19
+					anime_android_20
+					anime_android_21
+					anime_android_22
+					anime_android_23
+					anime_android_24
+					anime_android_25
+					anime_android_26
+					anime_android_27
+
+				}
+			}			
+		}
+	}
+}
