@@ -26,6 +26,8 @@ portraits = {
 	anime_android_25 = { texturefile = "gfx/models/portraits/androids/anime_android_25.dds"  }
 	anime_android_26 = { texturefile = "gfx/models/portraits/androids/anime_android_26.dds"  }
 	anime_android_27 = { texturefile = "gfx/models/portraits/androids/anime_android_27.dds"  }
+	anime_android_28 = { texturefile = "gfx/models/portraits/androids/anime_android_28.dds"  }
+	anime_android_29 = { texturefile = "gfx/models/portraits/androids/anime_android_29.dds"  }
 }
 
 portrait_groups = {
@@ -68,6 +70,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 				}
 			}
 			add = {
@@ -107,6 +111,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 				}
 			}	
 		}
@@ -143,6 +149,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 		
 				}
 			}		
@@ -178,6 +186,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 
 				}
 			}			
@@ -218,6 +228,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 		
 				}
 			}		
@@ -254,6 +266,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 
 				}
 			}			
@@ -297,7 +311,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-		
+					anime_android_28
+					anime_android_29
 				}
 			}	
 			add = {
@@ -336,6 +351,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
+					anime_android_28
+					anime_android_29
 
 				}
 			}			
@@ -375,7 +392,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-			
+					anime_android_28
+					anime_android_29			
 				}
 			}	
 			add = {
@@ -414,7 +432,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-
+					anime_android_28
+					anime_android_29
 				}
 			}			
 			add = {
@@ -453,7 +472,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-		
+					anime_android_28
+					anime_android_29		
 				}
 			}	
 			add = {
@@ -492,7 +512,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-
+					anime_android_28
+					anime_android_29
 				}
 			}
 			add = {
@@ -533,7 +554,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-			
+					anime_android_28
+					anime_android_29			
 				}
 			}	
 			add = {
@@ -574,7 +596,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-
+					anime_android_28
+					anime_android_29
 				}
 			}			
 		}
@@ -616,7 +639,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-	
+					anime_android_28
+					anime_android_29	
 				}
 			}	
 			add = {
@@ -654,7 +678,8 @@ portrait_groups = {
 					anime_android_25
 					anime_android_26
 					anime_android_27
-
+					anime_android_28
+					anime_android_29
 				}
 			}			
 		}

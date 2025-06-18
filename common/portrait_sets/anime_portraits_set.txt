@@ -46,8 +46,6 @@ cybernetic_humans = {
 			"anime_androids"
 		}
 	}
-
-	# These should not be used for randomly generated species
 	non_randomized_portraits = {
 		"anime_androids"
 	}
