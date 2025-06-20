@@ -21,64 +21,64 @@ machines = {
 	}
 }
 
-robots = {
-	species_class = ROBOT
-	portraits = {
-		"anime_androids"
-	}
+# robots = {
+# 	species_class = ROBOT
+# 	portraits = {
+# 		"anime_androids"
+# 	}
 
-	non_randomized_portraits = {
-		"anime_androids"
-	}
-}
+# 	non_randomized_portraits = {
+# 		"anime_androids"
+# 	}
+# }
 
-cybernetic_humans = {
-	species_class = HUM
+# cybernetic_humans = {
+# 	species_class = HUM
 
-	conditional_portraits = {
-		randomizable = {
-			has_machine_age_dlc = yes
-		}
-		playable = {
-			has_machine_age_dlc = yes
-		}
-		portraits = {
-			"anime_androids"
-		}
-	}
-	non_randomized_portraits = {
-		"anime_androids"
-	}
-}
+# 	conditional_portraits = {
+# 		randomizable = {
+# 			has_machine_age_dlc = yes
+# 		}
+# 		playable = {
+# 			has_machine_age_dlc = yes
+# 		}
+# 		portraits = {
+# 			"anime_androids"
+# 		}
+# 	}
+# 	non_randomized_portraits = {
+# 		"anime_androids"
+# 	}
+# }
 
-cybernetic_humanoids = {
-	species_class = HUM
+# cybernetic_humanoids = {
+# 	species_class = HUM
 
-	conditional_portraits = {
-		randomizable = {
-			has_machine_age_dlc = yes
-		}
-		playable = {
-			has_machine_age_dlc = yes
-		}
-		portraits = {
-			"anime_androids"
-		}
-	}
-}
+# 	conditional_portraits = {
+# 		randomizable = {
+# 			has_machine_age_dlc = yes
+# 		}
+# 		playable = {
+# 			has_machine_age_dlc = yes
+# 		}
+# 		portraits = {
+# 			"anime_androids"
+# 		}
+# 	}
+# }
 
-synthetic_humanoids = {
-	species_class = HUM
+# synthetic_humanoids = {
+# 	species_class = HUM
 
-	conditional_portraits = {
-		randomizable = {
-			has_machine_age_dlc = yes
-		}
-		playable = {
-			has_machine_age_dlc = yes
-		}
-		portraits = {
-			"anime_androids"
-		}
-	}
-}
+# 	conditional_portraits = {
+# 		randomizable = {
+# 			has_machine_age_dlc = yes
+# 		}
+# 		playable = {
+# 			has_machine_age_dlc = yes
+# 		}
+# 		portraits = {
+# 			"anime_androids"
+# 		}
+# 	}
+# }
