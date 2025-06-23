@@ -21,6 +21,34 @@ machines = {
 	}
 }
 
+
+reptilians = {
+	species_class = REP
+
+	portraits = {
+		"anime_reptilians"
+	}
+
+	conditional_portraits = {
+		randomizable = {
+			host_has_dlc = "Leviathans Story Pack"
+		}
+		playable = {
+			local_has_dlc = "Leviathans Story Pack"
+		}
+		portraits = {
+			"anime_reptilians"
+		}
+	}
+
+	conditional_portraits = {
+		portraits = {
+			"anime_reptilians"
+		}
+	}
+}
+
+#Дополнительные
 robots = {
 	species_class = ROBOT
 	portraits = {
