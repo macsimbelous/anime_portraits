@@ -48,6 +48,26 @@ reptilians = {
 	}
 }
 
+necroids = {
+	species_class = NECROID
+
+	conditional_portraits = {
+		randomizable = {
+			has_necroids = yes
+		}
+		playable = {
+			has_necroids = yes
+		}
+		portraits = {
+			"anime_necroids"
+		}
+	}
+
+	non_pre_ftl_portraits = {
+		"anime_necroids"
+	}
+}
+
 #Дополнительные
 robots = {
 	species_class = ROBOT

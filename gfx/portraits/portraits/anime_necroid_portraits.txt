@@ -1,0 +1,230 @@
+portraits = {
+	anime_necroid_girl_01 = { texturefile = "gfx/models/portraits/necroids/anime_necroid_girl_01.dds" }
+}
+
+portrait_groups = {
+	anime_necroids = {
+		default = anime_necroid_girl_01
+		game_setup = {
+			add = {
+				trigger = {
+					ruler = {
+						OR = {
+							gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					ruler = {
+						OR = {
+							gender = male
+							gender = indeterminable
+						}
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+		}
+		species = {
+			add = {
+				trigger = {
+					NOT = {
+						species = {
+							species_gender = male
+						}
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					NOT = {
+						species = {
+							species_gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+		}
+		#pop scope
+		pop = {
+			add = {
+				trigger = {
+					NOR = {
+						species = {
+							species_gender = male
+						}
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					NOR = {
+						species = {
+							species_gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+		}
+		#leader scope
+		leader = {
+			#scientists, generals, admirals, governor, #Admiral = Official, general = commander
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					NOT = {
+						leader_class = scientist
+					}
+					NOT = {
+						leader_class = commander
+					}
+					NOT = {
+						leader_class = official
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					NOT = {
+						leader_class = scientist
+					}
+					NOT = {
+						leader_class = commander
+					}
+					NOT = {
+						leader_class = official
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+		}
+		#ruler scope 
+		ruler = {
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_necroid_girl_01
+				}
+			}
+		}
+	}
+}
