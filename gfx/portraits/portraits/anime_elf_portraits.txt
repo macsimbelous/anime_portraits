@@ -1,0 +1,419 @@
+portraits = {
+	anime_elf_01 = { texturefile = "gfx/models/portraits/elfs/anime_elf_01.dds" }
+	anime_elf_02 = { texturefile = "gfx/models/portraits/elfs/anime_elf_02.dds" }
+	anime_elf_03 = { texturefile = "gfx/models/portraits/elfs/anime_elf_03.dds" }
+	anime_elf_04 = { texturefile = "gfx/models/portraits/elfs/anime_elf_04.dds" }
+	anime_elf_05 = { texturefile = "gfx/models/portraits/elfs/anime_elf_05.dds" }
+	anime_elf_06 = { texturefile = "gfx/models/portraits/elfs/anime_elf_06.dds" }
+	anime_elf_07 = { texturefile = "gfx/models/portraits/elfs/anime_elf_07.dds" }
+	anime_elf_08 = { texturefile = "gfx/models/portraits/elfs/anime_elf_08.dds" }
+	anime_elf_09 = { texturefile = "gfx/models/portraits/elfs/anime_elf_09.dds" }
+	anime_elf_10 = { texturefile = "gfx/models/portraits/elfs/anime_elf_10.dds" }
+	anime_elf_11 = { texturefile = "gfx/models/portraits/elfs/anime_elf_11.dds" }
+	anime_elf_12 = { texturefile = "gfx/models/portraits/elfs/anime_elf_12.dds" }
+	anime_elf_13 = { texturefile = "gfx/models/portraits/elfs/anime_elf_13.dds" }
+	anime_elf_14 = { texturefile = "gfx/models/portraits/elfs/anime_elf_14.dds" }
+	anime_elf_15 = { texturefile = "gfx/models/portraits/elfs/anime_elf_15.dds" }
+	anime_elf_16 = { texturefile = "gfx/models/portraits/elfs/anime_elf_16.dds" }
+	anime_elf_17 = { texturefile = "gfx/models/portraits/elfs/anime_elf_17.dds" }
+	anime_elf_18 = { texturefile = "gfx/models/portraits/elfs/anime_elf_18.dds" }
+}
+
+portrait_groups = {
+	anime_elfs = {
+		default = anime_elf_01
+		game_setup = {
+			add = {
+				trigger = {
+					ruler = {
+						OR = {
+							gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+				}
+			}
+		}
+		species = {
+			add = {
+				trigger = {
+					NOT = {
+						species = {
+							species_gender = male
+						}
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+		}
+		#pop scope
+		pop = {
+			add = {
+				trigger = {
+					NOR = {
+						species = {
+							species_gender = male
+						}
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+		}
+		#leader scope
+		leader = {
+			#scientists, generals, admirals, governor, #Admiral = Official, general = commander
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+					NOT = {
+						leader_class = scientist
+					}
+					NOT = {
+						leader_class = commander
+					}
+					NOT = {
+						leader_class = official
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+		}
+		#ruler scope 
+		ruler = {
+			add = {
+				trigger = {
+					OR = {
+						gender = female
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+					anime_elf_19
+					anime_elf_20
+					anime_elf_21
+					anime_elf_22
+					anime_elf_23
+					anime_elf_24
+					anime_elf_25
+					anime_elf_26
+					anime_elf_27
+					anime_elf_28
+					anime_elf_29
+					anime_elf_30
+					anime_elf_31
+					anime_elf_32
+					anime_elf_33
+					anime_elf_34
+					anime_elf_35
+					anime_elf_36
+					anime_elf_37
+					anime_elf_38
+				}
+			}
+		}
+	}
+}

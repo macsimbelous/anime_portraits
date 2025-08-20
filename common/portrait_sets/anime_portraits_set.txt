@@ -9,6 +9,17 @@ humans = {
 	}
 }
 
+humans = {
+	species_class = HUM
+
+	portraits = {
+		"anime_elfs"
+	}
+	non_randomized_portraits = {
+		"anime_elfs"
+	}
+}
+
 machines = {
 	species_class = MACHINE
 
