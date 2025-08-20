@@ -52,6 +52,36 @@ portrait_groups = {
 					anime_elf_18
 				}
 			}
+			add = {
+				trigger = {
+					ruler = {
+						OR = {
+							gender = male
+							gender = indeterminable
+						}
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
+				}
+			}
 		}
 		species = {
 			add = {
@@ -81,26 +111,35 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					NOT = {
+						species = {
+							species_gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 		}
@@ -133,26 +172,35 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					NOR = {
+						species = {
+							species_gender = female
+						}
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 		}
@@ -186,26 +234,35 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = scientist
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 			add = {
@@ -235,26 +292,35 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = commander
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 			add = {
@@ -284,26 +350,35 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					leader_class = official
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 			add = {
@@ -341,26 +416,43 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+					NOT = {
+						leader_class = scientist
+					}
+					NOT = {
+						leader_class = commander
+					}
+					NOT = {
+						leader_class = official
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 		}
@@ -392,26 +484,34 @@ portrait_groups = {
 					anime_elf_16
 					anime_elf_17
 					anime_elf_18
-					anime_elf_19
-					anime_elf_20
-					anime_elf_21
-					anime_elf_22
-					anime_elf_23
-					anime_elf_24
-					anime_elf_25
-					anime_elf_26
-					anime_elf_27
-					anime_elf_28
-					anime_elf_29
-					anime_elf_30
-					anime_elf_31
-					anime_elf_32
-					anime_elf_33
-					anime_elf_34
-					anime_elf_35
-					anime_elf_36
-					anime_elf_37
-					anime_elf_38
+				}
+			}
+			add = {
+				trigger = {
+					OR = {
+						gender = male
+						gender = indeterminable
+					}
+				}
+				portraits = {
+					anime_elf_01
+					anime_elf_02
+					anime_elf_03
+					anime_elf_04
+					anime_elf_05
+					anime_elf_06
+					anime_elf_07
+					anime_elf_08
+					anime_elf_09
+					anime_elf_10
+					anime_elf_11
+					anime_elf_12
+					anime_elf_13
+					anime_elf_14
+					anime_elf_15
+					anime_elf_16
+					anime_elf_17
+					anime_elf_18
 				}
 			}
 		}
