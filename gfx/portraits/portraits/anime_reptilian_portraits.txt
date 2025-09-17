@@ -7,6 +7,7 @@ portraits = {
 	anime_reptilian_girl_06 = { texturefile = "gfx/models/portraits/reptilians/anime_reptilian_girl_06.dds" }
 	anime_reptilian_girl_07 = { texturefile = "gfx/models/portraits/reptilians/anime_reptilian_girl_07.dds" }
 	anime_reptilian_girl_08 = { texturefile = "gfx/models/portraits/reptilians/anime_reptilian_girl_08.dds" }
+	anime_reptilian_girl_09 = { texturefile = "gfx/models/portraits/reptilians/anime_reptilian_girl_09.dds" }
 }
 
 portrait_groups = {
@@ -30,6 +31,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -50,6 +52,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 		}
@@ -71,6 +74,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -90,6 +94,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 		}
@@ -112,6 +117,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -131,6 +137,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 		}
@@ -154,6 +161,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -173,6 +181,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -192,6 +201,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -211,6 +221,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -230,6 +241,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -249,6 +261,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -276,6 +289,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -303,6 +317,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 		}
@@ -324,6 +339,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 			add = {
@@ -342,6 +358,7 @@ portrait_groups = {
 					anime_reptilian_girl_06
 					anime_reptilian_girl_07
 					anime_reptilian_girl_08
+					anime_reptilian_girl_09
 				}
 			}
 		}
