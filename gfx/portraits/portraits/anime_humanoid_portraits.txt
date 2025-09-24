@@ -40,6 +40,14 @@ portraits = {
 	anime_humanoid_girl_39 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_39.dds" }
 	anime_humanoid_girl_40 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_40.dds" }
 	anime_humanoid_girl_41 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_41.dds" }
+	anime_humanoid_girl_42 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_42.dds" }
+	anime_humanoid_girl_43 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_43.dds" }
+	anime_humanoid_girl_44 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_44.dds" }
+	anime_humanoid_girl_45 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_45.dds" }
+	anime_humanoid_girl_46 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_46.dds" }
+	anime_humanoid_girl_47 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_47.dds" }
+	anime_humanoid_girl_48 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_48.dds" }
+	anime_humanoid_girl_49 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_49.dds" }
 }
 
 portrait_groups = {
@@ -96,6 +104,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -149,6 +165,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 		}
@@ -203,6 +227,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -255,6 +287,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 		}
@@ -310,6 +350,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -362,6 +410,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 		}
@@ -418,6 +474,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -470,6 +534,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -522,6 +594,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -574,6 +654,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -626,6 +714,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -678,6 +774,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -738,6 +842,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -798,6 +910,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 		}
@@ -852,6 +972,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 			add = {
@@ -903,6 +1031,14 @@ portrait_groups = {
 					anime_humanoid_girl_39
 					anime_humanoid_girl_40
 					anime_humanoid_girl_41
+					anime_humanoid_girl_42
+					anime_humanoid_girl_43
+					anime_humanoid_girl_44
+					anime_humanoid_girl_45
+					anime_humanoid_girl_46
+					anime_humanoid_girl_47
+					anime_humanoid_girl_48
+					anime_humanoid_girl_49
 				}
 			}
 		}
