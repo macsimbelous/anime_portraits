@@ -32,6 +32,7 @@ portraits = {
 	anime_android_31 = { texturefile = "gfx/models/portraits/androids/anime_android_31.dds"  }
 	anime_android_32 = { texturefile = "gfx/models/portraits/androids/anime_android_32.dds"  }
 	anime_android_33 = { texturefile = "gfx/models/portraits/androids/anime_android_33.dds"  }
+	anime_android_34 = { texturefile = "gfx/models/portraits/androids/anime_android_34.dds"  }
 }
 
 portrait_groups = {
@@ -80,6 +81,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}
 			add = {
@@ -125,6 +127,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}	
 		}
@@ -167,6 +170,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 		
 				}
 			}		
@@ -208,6 +212,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}			
 		}
@@ -216,7 +221,8 @@ portrait_groups = {
 		pop = { #for a specific pop
 			add = {
 				trigger = {
-					NOR = {											species = { species_gender = male }
+					NOR = {
+						species = { species_gender = male }
 					}
 				}
 				portraits = {
@@ -253,6 +259,7 @@ portrait_groups = {
 					anime_android_31	
 					anime_android_32	
 					anime_android_33
+					anime_android_34
 				}
 			}		
 			add = {
@@ -295,6 +302,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}			
 		}
@@ -343,6 +351,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}	
 			add = {
@@ -387,6 +396,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}			
 			add = {
@@ -430,7 +440,8 @@ portrait_groups = {
 					anime_android_30
 					anime_android_31	
 					anime_android_32
-					anime_android_33	
+					anime_android_33
+					anime_android_34	
 				}
 			}	
 			add = {
@@ -475,6 +486,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}			
 			add = {
@@ -519,6 +531,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}	
 			add = {
@@ -563,6 +576,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}
 			add = {
@@ -609,6 +623,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}	
 			add = {
@@ -655,6 +670,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}			
 		}
@@ -702,6 +718,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}	
 			add = {
@@ -745,6 +762,7 @@ portrait_groups = {
 					anime_android_31
 					anime_android_32
 					anime_android_33
+					anime_android_34
 				}
 			}			
 		}
