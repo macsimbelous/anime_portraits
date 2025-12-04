@@ -7,6 +7,8 @@ portraits = {
 	anime_necroid_girl_06 = { texturefile = "gfx/models/portraits/necroids/anime_necroid_girl_06.dds" }
 	anime_necroid_girl_07 = { texturefile = "gfx/models/portraits/necroids/anime_necroid_girl_07.dds" }
 	anime_necroid_girl_08 = { texturefile = "gfx/models/portraits/necroids/anime_necroid_girl_08.dds" }
+	anime_necroid_girl_09 = { texturefile = "gfx/models/portraits/necroids/anime_necroid_girl_09.dds" }
+	anime_necroid_girl_10 = { texturefile = "gfx/models/portraits/necroids/anime_necroid_girl_10.dds" }
 }
 
 portrait_groups = {
@@ -30,6 +32,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -50,6 +54,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 		}
@@ -71,6 +77,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -90,6 +98,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 		}
@@ -112,6 +122,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -131,6 +143,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 		}
@@ -154,6 +168,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -173,6 +189,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -192,6 +210,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -211,6 +231,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -230,6 +252,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -249,6 +273,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -276,6 +302,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -303,6 +331,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 		}
@@ -324,6 +354,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 			add = {
@@ -342,6 +374,8 @@ portrait_groups = {
 					anime_necroid_girl_06
 					anime_necroid_girl_07
 					anime_necroid_girl_08
+					anime_necroid_girl_09
+					anime_necroid_girl_10
 				}
 			}
 		}
