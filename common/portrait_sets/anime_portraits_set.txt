@@ -79,6 +79,26 @@ necroids = {
 	}
 }
 
+infernals = {
+	species_class = INF
+
+	conditional_portraits = {
+		randomizable = {
+			has_infernals = yes
+		}
+		playable = {
+			has_infernals = yes
+		}
+		portraits = {
+			"anime_reptilians"
+		}
+	}
+
+	non_pre_ftl_portraits = {
+		"anime_reptilians"
+	}
+}
+
 #Дополнительные
 robots = {
 	species_class = ROBOT
@@ -139,5 +159,29 @@ synthetic_humanoids = {
 		portraits = {
 			"anime_androids"
 		}
+	}
+}
+
+pre_reptilians = {
+	species_class = PRE_REP
+
+	portraits = {
+		"anime_reptilians"
+	}
+
+	uplifted_portraits = {
+		"anime_reptilians"
+	}
+}
+
+pre_infernals = {
+	species_class = PRE_INF
+
+	portraits = {
+		"anime_reptilians"
+	}
+
+	uplifted_portraits = {
+		"anime_reptilians"
 	}
 }
