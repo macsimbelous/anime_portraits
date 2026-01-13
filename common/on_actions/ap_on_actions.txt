@@ -1,0 +1,6 @@
+# this = country
+on_decade_pulse_country = {
+	events = {
+		ap_paragon.41234
+	}
+}

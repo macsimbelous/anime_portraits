@@ -1,0 +1,121 @@
+namespace = ap_paragon
+
+###### Renowned leader events ######
+# Fires from on_decade_pulse_country
+country_event = {
+	id = ap_paragon.41234
+	is_triggered_only = yes
+	hide_window = yes
+
+	trigger = {
+		has_paragon_dlc = yes
+	}
+
+	immediate = {
+		random_owned_leader = {
+			limit = { is_leader_tier = leader_tier_renowned }
+			switch = {
+				trigger = has_leader_flag
+				renowned_xenophile2 = { # Nona
+					random_list = {
+						20 = { leader_event = { id = ap_paragon.40220 days = 1 random = 1800 } } # A Blorg Comes Calling
+						80 = {}
+					}
+				}
+			}
+		}
+	}
+}
+
+# Nona / xenophile2
+# A Blorg Comes Calling
+leader_event = {
+	id = ap_paragon.40220
+	title = paragon.40220.name
+	desc = paragon.40220.desc
+	inline_script = {
+		script = events/biogenesis_event_art
+		OWNER = owner
+		REGULAR_PICTURE = GFX_evt_ship_in_orbit
+		BIOSHIP_PICTURE = GFX_evt_bio_ships_orbiting
+	}
+	show_sound = event_default
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	event_window_type = leader_story
+	event_picture_background = "GFX_leader_recruitment_bg_renowned"
+
+	picture_event_data = {
+		portrait = root
+	}
+
+	option = {
+		name = paragon.40220.a
+		owner = {
+			add_monthly_resource_mult = {
+				resource = minerals
+				value = @tier3materialreward
+				min = @tier3materialmin
+				max = @tier3materialmax
+			}
+			hidden_effect = {
+				create_species = {
+					name = "PRESCRIPTED_species_name_blorg"
+					plural = "PRESCRIPTED_species_plural_blorg"
+					adjective = "PRESCRIPTED_species_adjective_blorg"
+					class = HUM
+					portrait = anime_humanoid_girl_13
+					gender = indeterminable
+					traits = {
+						ideal_planet_class = capital_scope
+						trait = "trait_repugnant"
+						trait = "trait_solitary"
+						trait = "trait_venerable"
+						trait = "trait_nomadic"
+					}
+				}
+				create_leader = {
+					species = last_created_species
+					name = "NONA_BLORG_EX_HUSBAND_NAME"
+					custom_description = "NONA_BLORG_EX_HUSBAND_DESC"
+					class = official
+					set_age = 18
+					skill = 3
+					randomize_traits = yes
+					background_ethic = ethic_xenophile
+					effect = {
+						save_event_target_as = keram_the_blorg
+					}
+				}
+				event_target:keram_the_blorg = {
+					add_trait = {
+						trait = leader_trait_mining_focus
+						show_message = no
+						consume_selection = yes
+					}
+					add_trait = {
+						trait = leader_trait_substance_abuser
+						show_message = no
+						consume_selection = yes
+					}
+					add_trait = {
+						trait = leader_trait_melancholic
+						show_message = no
+						consume_selection = yes
+					}
+					set_owner = prev
+				}
+				hire_event_leader_message = {
+					LEADER = keram_the_blorg
+				}
+			}
+		}
+		custom_tooltip = paragon.40220.a.custom_tooltip
+	}
+
+	option = {
+		name = paragon.40220.b
+	}
+}
+
