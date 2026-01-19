@@ -7,14 +7,14 @@ country_event = {
 	is_triggered_only = yes
 	hide_window = yes
 
-	trigger = {
-		has_paragon_dlc = yes
-	}
+	# trigger = {
+	# 	has_paragon_dlc = yes
+	# }
 
 	immediate = {
 		random_owned_leader = {
 			limit = { is_leader_tier = leader_tier_renowned }
-			leader_event = { id = ap_paragon.40220 days = 1 random = 1800 }
+			renowned_xenophile1 = { leader_event = { id = ap_paragon.40220 days = 1 random = 1 } }
 			switch = {
 				trigger = has_leader_flag
 				renowned_xenophile2 = { # Nona
