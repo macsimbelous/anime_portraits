@@ -1,122 +1,99 @@
 namespace = ap_paragon
 
-###### Renowned leader events ######
-# Fires from on_decade_pulse_country
-country_event = {
-	id = ap_paragon.41234
+country_event = { # spiritualist 2
+	id = ap_paragon.1
+	title = "paragon.41600.name"
+	desc = "paragon.41600.desc"
+	show_sound = par_portrait_16
 	is_triggered_only = yes
-	hide_window = yes
 
-	# trigger = {
-	# 	has_paragon_dlc = yes
-	# }
+	picture = GFX_leader_recruitment_bg_renowned
+	auto_opens = no
+	event_window_type = leader_recruit
+	notification_event_icon = "GFX_message_leader_recruitment_nasuz"
 
 	immediate = {
-		random_owned_leader = {
-			limit = { is_leader_tier = leader_tier_renowned }
-			renowned_xenophile1 = { leader_event = { id = ap_paragon.40220 days = 1 random = 1 } }
-			switch = {
-				trigger = has_leader_flag
-				renowned_xenophile2 = { # Nona
-					random_list = {
-						0 = { leader_event = { id = ap_paragon.40220 days = 1 random = 1800 } } # A Blorg Comes Calling
-						80 = {}
-					}
-				}
+		ethic_leader_creator = {
+			SPECIES_CLASS = random_non_machine
+			#LEADER_PORTRAIT = par_renown_16 #spiritualist_leader_sci
+			LEADER_PORTRAIT = anime_humanoid_girl_13
+			CLASS = scientist
+			TIER = leader_tier_renowned
+			NAME = NAME_spiritualist2
+			LEVEL = 4
+			GENDER = male
+			IMMORTAL = no
+			ETHIC = spiritualist
+			DESC = spiritualist2
+			CATCH_PHRASE = spiritualist2_catch_phrase
+		}
+		last_created_leader = {
+			add_trait = {
+				trait = subclass_scientist_scholar
+				consume_selection = yes
 			}
+			add_trait = {
+				trait = leader_trait_midas_touch
+				consume_selection = yes
+			}
+			add_trait = {
+				trait = leader_trait_opinionated
+				consume_selection = yes
+			}
+			add_trait = {
+				trait = leader_trait_archaeologist_2
+				consume_selection = yes
+			}
+			add_trait = {
+				trait = leader_trait_academic_dig_site_expert
+				consume_selection = yes
+			}
+			add_trait = {
+				trait = leader_trait_resilient
+				consume_selection = yes
+			}
+			set_age = 80
 		}
 	}
-}
-
-# Nona / xenophile2
-# A Blorg Comes Calling
-leader_event = {
-	id = ap_paragon.40220
-	title = paragon.40220.name
-	desc = paragon.40220.desc
-	inline_script = {
-		script = events/biogenesis_event_art
-		OWNER = owner
-		REGULAR_PICTURE = GFX_evt_ship_in_orbit
-		BIOSHIP_PICTURE = GFX_evt_bio_ships_orbiting
-	}
-	show_sound = event_default
-	is_triggered_only = yes
-	fire_only_once = yes
-
-	event_window_type = leader_story
-	event_picture_background = "GFX_leader_recruitment_bg_renowned"
 
 	picture_event_data = {
-		portrait = root
+		portrait = event_target:ethic_leader
+		#portrait = event_target:contact_empire
+		room = ethic_spaceship_room
 	}
 
 	option = {
-		name = paragon.40220.a
-		owner = {
-			add_monthly_resource_mult = {
-				resource = minerals
-				value = @tier3materialreward
-				min = @tier3materialmin
-				max = @tier3materialmax
-			}
-			hidden_effect = {
-				create_species = {
-					name = "PRESCRIPTED_species_name_blorg"
-					plural = "PRESCRIPTED_species_plural_blorg"
-					adjective = "PRESCRIPTED_species_adjective_blorg"
-					class = HUM
-					portrait = anime_humanoid_girl_13
-					gender = indeterminable
-					traits = {
-						ideal_planet_class = capital_scope
-						trait = "trait_repugnant"
-						trait = "trait_solitary"
-						trait = "trait_venerable"
-						trait = "trait_nomadic"
-					}
-				}
-				create_leader = {
-					species = last_created_species
-					name = "NONA_BLORG_EX_HUSBAND_NAME"
-					custom_description = "NONA_BLORG_EX_HUSBAND_DESC"
-					class = official
-					set_age = 18
-					skill = 3
-					randomize_traits = yes
-					background_ethic = ethic_xenophile
-					effect = {
-						save_event_target_as = keram_the_blorg
-					}
-				}
-				event_target:keram_the_blorg = {
-					add_trait = {
-						trait = leader_trait_mining_focus
-						show_message = no
-						consume_selection = yes
-					}
-					add_trait = {
-						trait = leader_trait_substance_abuser
-						show_message = no
-						consume_selection = yes
-					}
-					add_trait = {
-						trait = leader_trait_melancholic
-						show_message = no
-						consume_selection = yes
-					}
-					set_owner = prev
-				}
-				hire_event_leader_message = {
-					LEADER = keram_the_blorg
-				}
+		name = DISMISS
+		tag = dismiss_leader
+		hidden_effect = {
+			remove_global_flag = spiritualist_leader_2
+			ethic_leader_kill_effect = yes
+			set_country_flag = dismissed_spiritualist_leader_2
+		}
+	}
+	option = {
+		name = paragon.41600.a
+		response_text = paragon.41600.a.response
+		is_dialog_only = yes
+	}
+	option = {
+		name = paragon.41600.b
+		response_text = paragon.41600.b.response
+		is_dialog_only = yes
+	}
+	option = {
+		name = paragon.41600.c
+		response_text = paragon.41600.c.response
+		is_dialog_only = yes
+	}
+	option = {
+		name = HIRE
+		tag = hire_leader
+		custom_tooltip = paragon.41600.hire_custom_tooltip
+		hidden_effect = {
+			ethic_leader_hire_effect = {
+				GLOBAL_EVENT_TARGET = renowned_spiritualist2
 			}
 		}
-		custom_tooltip = paragon.40220.a.custom_tooltip
-	}
-
-	option = {
-		name = paragon.40220.b
 	}
 }
-
