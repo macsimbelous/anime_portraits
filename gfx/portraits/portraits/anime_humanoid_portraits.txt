@@ -85,7 +85,7 @@ portraits = {
 
 portrait_groups = {
 	anime_humanoids = {
-		default = anime_humanoid_girl_01
+		default = ap_humanoid_girl_official_30
 		game_setup = {
 			add = {
 				trigger = {
