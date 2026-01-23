@@ -1,82 +1,86 @@
 portraits = {
-	anime_humanoid_girl_01 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_01.dds" }
-	anime_humanoid_girl_02 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_02.dds" }
-	anime_humanoid_girl_03 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_03.dds" }
-	anime_humanoid_girl_04 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_04.dds" }
-	anime_humanoid_girl_05 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_05.dds" }
-	anime_humanoid_girl_06 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_06.dds" }
-	anime_humanoid_girl_07 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_07.dds" }
-	anime_humanoid_girl_08 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_08.dds" }
-	anime_humanoid_girl_09 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_09.dds" }
-	anime_humanoid_girl_10 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_10.dds" }
-	anime_humanoid_girl_11 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_11.dds" }
-	anime_humanoid_girl_12 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_12.dds" }
-	anime_humanoid_girl_13 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_13.dds" }
-	anime_humanoid_girl_14 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_14.dds" }
-	anime_humanoid_girl_15 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_15.dds" }
-	anime_humanoid_girl_16 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_16.dds" }
-	anime_humanoid_girl_17 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_17.dds" }
-	anime_humanoid_girl_18 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_18.dds" }
-	anime_humanoid_girl_19 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_19.dds" }
-	anime_humanoid_girl_20 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_20.dds" }
-	anime_humanoid_girl_21 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_21.dds" }
-	anime_humanoid_girl_22 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_22.dds" }
-	anime_humanoid_girl_23 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_23.dds" }
-	anime_humanoid_girl_24 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_24.dds" }
-	anime_humanoid_girl_25 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_25.dds" }
-	anime_humanoid_girl_26 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_26.dds" }
-	anime_humanoid_girl_27 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_27.dds" }
-	anime_humanoid_girl_28 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_28.dds" }
-	anime_humanoid_girl_29 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_29.dds" }
-	anime_humanoid_girl_30 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_30.dds" }
-	anime_humanoid_girl_31 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_31.dds" }
-	anime_humanoid_girl_32 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_32.dds" }
-	anime_humanoid_girl_33 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_33.dds" }
-	anime_humanoid_girl_34 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_34.dds" }
-	anime_humanoid_girl_35 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_35.dds" }
-	anime_humanoid_girl_36 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_36.dds" }
-	anime_humanoid_girl_37 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_37.dds" }
-	anime_humanoid_girl_38 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_38.dds" }
-	anime_humanoid_girl_39 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_39.dds" }
-	anime_humanoid_girl_40 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_40.dds" }
-	anime_humanoid_girl_41 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_41.dds" }
-	anime_humanoid_girl_42 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_42.dds" }
-	anime_humanoid_girl_43 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_43.dds" }
-	anime_humanoid_girl_44 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_44.dds" }
-	anime_humanoid_girl_45 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_45.dds" }
-	anime_humanoid_girl_46 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_46.dds" }
-	anime_humanoid_girl_47 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_47.dds" }
-	anime_humanoid_girl_48 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_48.dds" }
-	anime_humanoid_girl_49 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_49.dds" }
-	anime_humanoid_girl_50 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_50.dds" }
-	anime_humanoid_girl_51 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_51.dds" }
-	anime_humanoid_girl_52 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_52.dds" }
-	anime_humanoid_girl_53 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_53.dds" }
-	anime_humanoid_girl_54 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_54.dds" }
-	anime_humanoid_girl_55 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_55.dds" }
-	anime_humanoid_girl_56 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_56.dds" }
-	anime_humanoid_girl_57 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_57.dds" }
-	anime_humanoid_girl_58 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_58.dds" }
-	anime_humanoid_girl_59 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_59.dds" }
-	anime_humanoid_girl_60 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_60.dds" }
-	anime_humanoid_girl_61 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_61.dds" }
-	anime_humanoid_girl_62 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_62.dds" }
-	anime_humanoid_girl_63 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_63.dds" }
-	anime_humanoid_girl_64 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_64.dds" }
-	anime_humanoid_girl_65 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_65.dds" }
-	anime_humanoid_girl_66 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_66.dds" }
-	anime_humanoid_girl_67 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_67.dds" }
-	anime_humanoid_girl_68 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_68.dds" }
-	anime_humanoid_girl_69 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_69.dds" }
-	anime_humanoid_girl_70 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_70.dds" }
-	anime_humanoid_girl_71 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_71.dds" }
-	anime_humanoid_girl_72 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_72.dds" }
-	anime_humanoid_girl_73 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_73.dds" }
-	anime_humanoid_girl_74 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_74.dds" }
-	anime_humanoid_girl_75 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_75.dds" }
-	anime_humanoid_girl_76 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_76.dds" }
-	anime_humanoid_girl_77 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_77.dds" }
-	anime_humanoid_girl_78 = { texturefile = "gfx/models/portraits/humanoids/anime_humanoid_girl_78.dds" }
+	#commander
+	ap_humanoid_girl_commander_01 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_01.dds" }
+	ap_humanoid_girl_commander_02 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_02.dds" }
+	ap_humanoid_girl_commander_03 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_03.dds" }
+	ap_humanoid_girl_commander_04 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_04.dds" }
+	ap_humanoid_girl_commander_05 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_05.dds" }
+	ap_humanoid_girl_commander_06 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_06.dds" }
+	ap_humanoid_girl_commander_07 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_07.dds" }
+	ap_humanoid_girl_commander_08 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_08.dds" }
+	ap_humanoid_girl_commander_09 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_09.dds" }
+	ap_humanoid_girl_commander_10 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_10.dds" }
+	ap_humanoid_girl_commander_11 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_11.dds" }
+	ap_humanoid_girl_commander_12 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_12.dds" }
+	ap_humanoid_girl_commander_13 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_13.dds" }
+	ap_humanoid_girl_commander_14 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_14.dds" }
+	ap_humanoid_girl_commander_15 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_15.dds" }
+	ap_humanoid_girl_commander_16 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_16.dds" }
+	ap_humanoid_girl_commander_17 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_17.dds" }
+	ap_humanoid_girl_commander_18 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_18.dds" }
+	ap_humanoid_girl_commander_19 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_19.dds" }
+	ap_humanoid_girl_commander_20 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_20.dds" }
+	ap_humanoid_girl_commander_21 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_21.dds" }
+	ap_humanoid_girl_commander_22 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_22.dds" }
+	ap_humanoid_girl_commander_23 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_23.dds" }
+	ap_humanoid_girl_commander_24 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_24.dds" }
+	ap_humanoid_girl_commander_25 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_25.dds" }
+	ap_humanoid_girl_commander_26 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_26.dds" }
+	ap_humanoid_girl_commander_27 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_27.dds" }
+	#official
+	ap_humanoid_girl_official_01 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_01.dds" }
+	ap_humanoid_girl_official_02 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_02.dds" }
+	ap_humanoid_girl_official_03 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_03.dds" }
+	ap_humanoid_girl_official_04 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_04.dds" }
+	ap_humanoid_girl_official_05 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_05.dds" }
+	ap_humanoid_girl_official_06 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_06.dds" }
+	ap_humanoid_girl_official_07 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_07.dds" }
+	ap_humanoid_girl_official_08 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_08.dds" }
+	ap_humanoid_girl_official_09 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_09.dds" }
+	ap_humanoid_girl_official_10 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_10.dds" }
+	ap_humanoid_girl_official_11 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_11.dds" }
+	ap_humanoid_girl_official_12 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_12.dds" }
+	ap_humanoid_girl_official_13 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_13.dds" }
+	ap_humanoid_girl_official_14 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_14.dds" }
+	ap_humanoid_girl_official_15 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_15.dds" }
+	ap_humanoid_girl_official_16 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_16.dds" }
+	ap_humanoid_girl_official_17 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_17.dds" }
+	ap_humanoid_girl_official_18 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_18.dds" }
+	ap_humanoid_girl_official_19 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_19.dds" }
+	ap_humanoid_girl_official_20 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_20.dds" }
+	ap_humanoid_girl_official_21 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_21.dds" }
+	ap_humanoid_girl_official_22 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_22.dds" }
+	ap_humanoid_girl_official_23 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_23.dds" }
+	ap_humanoid_girl_official_24 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_24.dds" }
+	ap_humanoid_girl_official_25 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_25.dds" }
+	ap_humanoid_girl_official_26 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_26.dds" }
+	ap_humanoid_girl_official_27 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_27.dds" }
+	ap_humanoid_girl_official_28 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_28.dds" }
+	ap_humanoid_girl_official_29 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_29.dds" }
+	ap_humanoid_girl_official_30 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_30.dds" }
+	ap_humanoid_girl_official_31 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_31.dds" }
+	#scientist
+	ap_humanoid_girl_scientist_01 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_01.dds" }
+	ap_humanoid_girl_scientist_02 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_02.dds" }
+	ap_humanoid_girl_scientist_03 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_03.dds" }
+	ap_humanoid_girl_scientist_04 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_04.dds" }
+	ap_humanoid_girl_scientist_05 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_05.dds" }
+	ap_humanoid_girl_scientist_06 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_06.dds" }
+	ap_humanoid_girl_scientist_07 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_07.dds" }
+	ap_humanoid_girl_scientist_08 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_08.dds" }
+	ap_humanoid_girl_scientist_09 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_09.dds" }
+	ap_humanoid_girl_scientist_10 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_10.dds" }
+	ap_humanoid_girl_scientist_11 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_11.dds" }
+	ap_humanoid_girl_scientist_12 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_12.dds" }
+	ap_humanoid_girl_scientist_13 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_13.dds" }
+	ap_humanoid_girl_scientist_14 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_14.dds" }
+	ap_humanoid_girl_scientist_15 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_15.dds" }
+	ap_humanoid_girl_scientist_16 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_16.dds" }
+	ap_humanoid_girl_scientist_17 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_17.dds" }
+	ap_humanoid_girl_scientist_18 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_18.dds" }
+	ap_humanoid_girl_scientist_19 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_19.dds" }
+	ap_humanoid_girl_scientist_20 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_20.dds" }
+
 }
 
 portrait_groups = {
@@ -92,84 +96,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -182,84 +186,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 		}
@@ -273,84 +277,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -362,84 +366,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 		}
@@ -454,84 +458,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -543,84 +547,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 		}
@@ -636,84 +640,26 @@ portrait_groups = {
 					leader_class = scientist
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
 				}
 			}
 			add = {
@@ -725,84 +671,26 @@ portrait_groups = {
 					leader_class = scientist
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
 				}
 			}
 			add = {
@@ -814,84 +702,33 @@ portrait_groups = {
 					leader_class = commander
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
 				}
 			}
 			add = {
@@ -903,84 +740,33 @@ portrait_groups = {
 					leader_class = commander
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
 				}
 			}
 			add = {
@@ -992,84 +778,37 @@ portrait_groups = {
 					leader_class = official
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -1081,84 +820,37 @@ portrait_groups = {
 					leader_class = official
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -1178,84 +870,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -1275,84 +967,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 		}
@@ -1366,84 +1058,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 			add = {
@@ -1454,84 +1146,84 @@ portrait_groups = {
 					}
 				}
 				portraits = {
-					anime_humanoid_girl_01
-					anime_humanoid_girl_02
-					anime_humanoid_girl_03
-					anime_humanoid_girl_04
-					anime_humanoid_girl_05
-					anime_humanoid_girl_06
-					anime_humanoid_girl_07
-					anime_humanoid_girl_08
-					anime_humanoid_girl_09
-					anime_humanoid_girl_10
-					anime_humanoid_girl_11
-					anime_humanoid_girl_12
-					anime_humanoid_girl_13
-					anime_humanoid_girl_14
-					anime_humanoid_girl_15
-					anime_humanoid_girl_16
-					anime_humanoid_girl_17
-					anime_humanoid_girl_18
-					anime_humanoid_girl_19
-					anime_humanoid_girl_20
-					anime_humanoid_girl_21
-					anime_humanoid_girl_22
-					anime_humanoid_girl_23
-					anime_humanoid_girl_24
-					anime_humanoid_girl_25
-					anime_humanoid_girl_26
-					anime_humanoid_girl_27
-					anime_humanoid_girl_28
-					anime_humanoid_girl_29
-					anime_humanoid_girl_30
-					anime_humanoid_girl_31
-					anime_humanoid_girl_32
-					anime_humanoid_girl_33
-					anime_humanoid_girl_34
-					anime_humanoid_girl_35
-					anime_humanoid_girl_36
-					anime_humanoid_girl_37
-					anime_humanoid_girl_38
-					anime_humanoid_girl_39
-					anime_humanoid_girl_40
-					anime_humanoid_girl_41
-					anime_humanoid_girl_42
-					anime_humanoid_girl_43
-					anime_humanoid_girl_44
-					anime_humanoid_girl_45
-					anime_humanoid_girl_46
-					anime_humanoid_girl_47
-					anime_humanoid_girl_48
-					anime_humanoid_girl_49
-					anime_humanoid_girl_50
-					anime_humanoid_girl_51
-					anime_humanoid_girl_52
-					anime_humanoid_girl_53
-					anime_humanoid_girl_54
-					anime_humanoid_girl_55
-					anime_humanoid_girl_56
-					anime_humanoid_girl_57
-					anime_humanoid_girl_58
-					anime_humanoid_girl_59
-					anime_humanoid_girl_60
-					anime_humanoid_girl_61
-					anime_humanoid_girl_62
-					anime_humanoid_girl_63
-					anime_humanoid_girl_64
-					anime_humanoid_girl_65
-					anime_humanoid_girl_66
-					anime_humanoid_girl_67
-					anime_humanoid_girl_68
-					anime_humanoid_girl_69
-					anime_humanoid_girl_70
-					anime_humanoid_girl_71
-					anime_humanoid_girl_72
-					anime_humanoid_girl_73
-					anime_humanoid_girl_74
-					anime_humanoid_girl_75
-					anime_humanoid_girl_76
-					anime_humanoid_girl_77
-					anime_humanoid_girl_78
+					ap_humanoid_girl_scientist_01
+					ap_humanoid_girl_scientist_02
+					ap_humanoid_girl_scientist_03
+					ap_humanoid_girl_scientist_04
+					ap_humanoid_girl_scientist_05
+					ap_humanoid_girl_scientist_06
+					ap_humanoid_girl_scientist_07
+					ap_humanoid_girl_scientist_08
+					ap_humanoid_girl_scientist_09
+					ap_humanoid_girl_scientist_10
+					ap_humanoid_girl_scientist_11
+					ap_humanoid_girl_scientist_12
+					ap_humanoid_girl_scientist_13
+					ap_humanoid_girl_scientist_14
+					ap_humanoid_girl_scientist_15
+					ap_humanoid_girl_scientist_16
+					ap_humanoid_girl_scientist_17
+					ap_humanoid_girl_scientist_18
+					ap_humanoid_girl_scientist_19
+					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_commander_01
+					ap_humanoid_girl_commander_02
+					ap_humanoid_girl_commander_03
+					ap_humanoid_girl_commander_04
+					ap_humanoid_girl_commander_05
+					ap_humanoid_girl_commander_06
+					ap_humanoid_girl_commander_07
+					ap_humanoid_girl_commander_08
+					ap_humanoid_girl_commander_09
+					ap_humanoid_girl_commander_10
+					ap_humanoid_girl_commander_11
+					ap_humanoid_girl_commander_12
+					ap_humanoid_girl_commander_13
+					ap_humanoid_girl_commander_14
+					ap_humanoid_girl_commander_15
+					ap_humanoid_girl_commander_16
+					ap_humanoid_girl_commander_17
+					ap_humanoid_girl_commander_18
+					ap_humanoid_girl_commander_19
+					ap_humanoid_girl_commander_20
+					ap_humanoid_girl_commander_21
+					ap_humanoid_girl_commander_22
+					ap_humanoid_girl_commander_23
+					ap_humanoid_girl_commander_24
+					ap_humanoid_girl_commander_25
+					ap_humanoid_girl_commander_26
+					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_official_01
+					ap_humanoid_girl_official_02
+					ap_humanoid_girl_official_03
+					ap_humanoid_girl_official_04
+					ap_humanoid_girl_official_05
+					ap_humanoid_girl_official_06
+					ap_humanoid_girl_official_07
+					ap_humanoid_girl_official_08
+					ap_humanoid_girl_official_09
+					ap_humanoid_girl_official_10
+					ap_humanoid_girl_official_11
+					ap_humanoid_girl_official_12
+					ap_humanoid_girl_official_13
+					ap_humanoid_girl_official_14
+					ap_humanoid_girl_official_15
+					ap_humanoid_girl_official_16
+					ap_humanoid_girl_official_17
+					ap_humanoid_girl_official_18
+					ap_humanoid_girl_official_19
+					ap_humanoid_girl_official_20
+					ap_humanoid_girl_official_21
+					ap_humanoid_girl_official_22
+					ap_humanoid_girl_official_23
+					ap_humanoid_girl_official_24
+					ap_humanoid_girl_official_25
+					ap_humanoid_girl_official_26
+					ap_humanoid_girl_official_27
+					ap_humanoid_girl_official_28
+					ap_humanoid_girl_official_29
+					ap_humanoid_girl_official_30
+					ap_humanoid_girl_official_31
 				}
 			}
 		}
