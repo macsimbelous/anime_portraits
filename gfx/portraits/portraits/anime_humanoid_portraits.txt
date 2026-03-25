@@ -27,6 +27,7 @@ portraits = {
 	ap_humanoid_girl_commander_25 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_25.dds" }
 	ap_humanoid_girl_commander_26 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_26.dds" }
 	ap_humanoid_girl_commander_27 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_27.dds" }
+	ap_humanoid_girl_commander_28 = { texturefile = "gfx/models/portraits/humanoids/commander/ap_humanoid_girl_commander_28.dds" }
 	#official
 	ap_humanoid_girl_official_01 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_01.dds" }
 	ap_humanoid_girl_official_02 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_02.dds" }
@@ -143,6 +144,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -233,6 +235,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -324,6 +327,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -413,6 +417,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -505,6 +510,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -594,6 +600,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -729,6 +736,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 				}
 			}
 			add = {
@@ -767,6 +775,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 				}
 			}
 			add = {
@@ -917,6 +926,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -1014,6 +1024,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -1105,6 +1116,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
@@ -1193,6 +1205,7 @@ portrait_groups = {
 					ap_humanoid_girl_commander_25
 					ap_humanoid_girl_commander_26
 					ap_humanoid_girl_commander_27
+					ap_humanoid_girl_commander_28
 					ap_humanoid_girl_official_01
 					ap_humanoid_girl_official_02
 					ap_humanoid_girl_official_03
