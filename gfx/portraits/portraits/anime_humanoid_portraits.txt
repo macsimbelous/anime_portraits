@@ -81,6 +81,7 @@ portraits = {
 	ap_humanoid_girl_scientist_18 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_18.dds" }
 	ap_humanoid_girl_scientist_19 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_19.dds" }
 	ap_humanoid_girl_scientist_20 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_20.dds" }
+	ap_humanoid_girl_scientist_21 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_21.dds" }
 
 }
 
@@ -117,6 +118,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -208,6 +210,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -300,6 +303,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -390,6 +394,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -483,6 +488,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -573,6 +579,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -667,6 +674,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 				}
 			}
 			add = {
@@ -698,6 +706,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 				}
 			}
 			add = {
@@ -899,6 +908,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -997,6 +1007,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -1089,6 +1100,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
@@ -1178,6 +1190,7 @@ portrait_groups = {
 					ap_humanoid_girl_scientist_18
 					ap_humanoid_girl_scientist_19
 					ap_humanoid_girl_scientist_20
+					ap_humanoid_girl_scientist_21
 					ap_humanoid_girl_commander_01
 					ap_humanoid_girl_commander_02
 					ap_humanoid_girl_commander_03
