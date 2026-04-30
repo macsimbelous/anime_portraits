@@ -21,6 +21,7 @@ portraits = {
 	anime_elf_20 = { texturefile = "gfx/models/portraits/elfs/anime_elf_20.dds" }
 	anime_elf_21 = { texturefile = "gfx/models/portraits/elfs/anime_elf_21.dds" }
 	anime_elf_22 = { texturefile = "gfx/models/portraits/elfs/anime_elf_22.dds" }
+	anime_elf_23 = { texturefile = "gfx/models/portraits/elfs/anime_elf_23.dds" }
 }
 
 portrait_groups = {
@@ -58,6 +59,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -92,6 +94,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 		}
@@ -127,6 +130,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -160,6 +164,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 		}
@@ -196,6 +201,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -229,6 +235,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 		}
@@ -266,6 +273,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -299,6 +307,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -332,6 +341,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -365,6 +375,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -398,6 +409,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -431,6 +443,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -472,6 +485,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -513,6 +527,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 		}
@@ -548,6 +563,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 			add = {
@@ -580,6 +596,7 @@ portrait_groups = {
 					anime_elf_20
 					anime_elf_21
 					anime_elf_22
+					anime_elf_23
 				}
 			}
 		}

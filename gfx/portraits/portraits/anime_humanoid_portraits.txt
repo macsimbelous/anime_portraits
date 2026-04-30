@@ -60,6 +60,7 @@ portraits = {
 	ap_humanoid_girl_official_29 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_29.dds" }
 	ap_humanoid_girl_official_30 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_30.dds" }
 	ap_humanoid_girl_official_31 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_31.dds" }
+	ap_humanoid_girl_official_32 = { texturefile = "gfx/models/portraits/humanoids/official/ap_humanoid_girl_official_32.dds" }
 	#scientist
 	ap_humanoid_girl_scientist_01 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_01.dds" }
 	ap_humanoid_girl_scientist_02 = { texturefile = "gfx/models/portraits/humanoids/scientist/ap_humanoid_girl_scientist_02.dds" }
@@ -178,6 +179,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -270,6 +272,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 		}
@@ -363,6 +366,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -454,6 +458,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 		}
@@ -548,6 +553,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -639,6 +645,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 		}
@@ -827,6 +834,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -869,6 +877,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -968,6 +977,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -1067,6 +1077,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 		}
@@ -1160,6 +1171,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 			add = {
@@ -1250,6 +1262,7 @@ portrait_groups = {
 					ap_humanoid_girl_official_29
 					ap_humanoid_girl_official_30
 					ap_humanoid_girl_official_31
+					ap_humanoid_girl_official_32
 				}
 			}
 		}
